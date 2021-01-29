@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@hiveio/dhive": "^0.14.12",
+    "@types/node": "^14.14.22"
+  }
+}
